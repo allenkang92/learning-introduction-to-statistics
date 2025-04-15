@@ -1,1 +1,1 @@
-# learning-introduction-to-Statistics
+# learning-introduction-to-statistics
